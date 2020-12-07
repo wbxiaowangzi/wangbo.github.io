@@ -34,7 +34,7 @@ social:
   email: wangbomvp@163.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/wbxiaowangzi      # change to your twitter homepage
+    - https://twitter.com      # change to your twitter homepage
     - https://github.com/wbxiaowangzi       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
